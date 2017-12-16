@@ -1,4 +1,4 @@
-<!php
+<?php
 ///////input stringy uuid as argument with formatting directly out of PhpStorm mySQL database including leading 0x //////////////
 ///////this will output a uuid string in a format that can be passed into the url, and is useful for testing RESTful services////
 
