@@ -85,9 +85,9 @@ function average_string(string $s): string {
         }
         ///returns the value of $average///
         return $average;
-    
-    
-    
+
+
+
 
 }
 ///takes input values like this///
