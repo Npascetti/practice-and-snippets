@@ -1,6 +1,6 @@
 <?php
 ///a function that takes an argument of an array of 20 single characters///
-///10 are numberic, 10 are alpha///
+///10 are numeric, 10 are alpha///
 ///Returns an array of length 2. [0] is mean of numbers in original array///
 ///[1] is string value of letters in original order///
 function mean(array $a): array {
