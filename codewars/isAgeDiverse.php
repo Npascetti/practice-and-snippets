@@ -5,7 +5,7 @@ function is_age_diverse(array $a): bool{
     $ageArray = [];
     foreach ($a as $part) {
         foreach ($part as $key => $attribute) {
-            if (is_int($attribute)) {
+            if ($key == "age") {
                 array_push($ageArray, $attribute);
             }
         }
